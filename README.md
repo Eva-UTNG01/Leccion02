@@ -1,7 +1,7 @@
 # Creación de videojuegos
 
 # Unidad_02
-- Docente : Barron Rodriguez Grabiel
+- Docente : Barron Rodriguez Gabriel
 - Alumna : Eva Quintero Carrillo - 1217100824
 
 ### Actividades
